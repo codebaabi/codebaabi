@@ -1,9 +1,8 @@
-## Olá! Eu sou Bárbara Batista 🖐️
+### Olá! Eu sou Bárbara Batista 🖐️
 
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador](https://www.instagram.com/maria.baabi/))
-[![Linkedin]([https://img.shields.io/badge/linkedin-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbaraoliveirabatista/)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebaabi&theme=graywhite_icons=true))
 
 ## Tecnologias que eu uso no meu dia
 
